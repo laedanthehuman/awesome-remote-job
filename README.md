@@ -161,6 +161,7 @@ A curated list of awesome [remote working](https://en.wikipedia.org/wiki/Telecom
   6. [Work From Curacao](http://www.workfromcuracao.com/) - Coliving space in Curacao
   7. [Working Retreat](http://workingretreat.com) - Coliving space in Thailand
   2. [Worldpackers](https://www.worldpackers.com) - Housing/work exchange
+  2. [Elephant Coworking](http://elephantcoworking.com.br/) - Coworking space, Fortaleza, Ceará
 
 
 ## Interviewing
